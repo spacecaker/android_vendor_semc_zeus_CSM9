@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/semc/zeus/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
     vendor/semc/zeus/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
     vendor/semc/zeus/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
+	vendor/semc/zeus/proprietary/lib/libchromium_net.so:system/lib/libchromium_net.so \
     vendor/semc/zeus/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/semc/zeus/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/semc/zeus/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
